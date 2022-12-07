@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd " /home/m/firstgithube/nowa"
+cd " /home/m/firstgithube"
 
 git add -A
 git commit -am "update"
